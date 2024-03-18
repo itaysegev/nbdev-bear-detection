@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-bear-detection"
+  site-url: "https://itaysegev.github.io/nbdev-bear-detection"
+  description: "Bear detection model with nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/itaysegev/nbdev-bear-detection"
